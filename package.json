@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "markdown-it-katex": "^2.0.3",
+    "vitepress": "^1.0.0-alpha.72"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "naive-ui": "^2.34.3"
+  }
+}
