@@ -91,7 +91,7 @@ const customElements = [
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    base: 'https://huuublog.github.io/',
+    base: '/huuublog.github.io/',
     title: '个人',
     markdown: {
         config: (md) => {
