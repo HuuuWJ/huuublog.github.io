@@ -48,4 +48,24 @@ editLink: true
 **变量使用注意事项**
 <img src="../images/BianLiangNotice.png" alt="">
 
+**变量在计算机中的底层原理**
+- 二进制
 
+    *只有0，1，按照逢2进1的方式表示数据。
+- 十进制转化为二进制方法
+
+    *除二取余法
+
+    *Java程序中支持书写二进制、八进制、十六进制的数据，分别需要以0B或者0b、0、0X或者0x开头。
+- 计算机中的数据的最小单位
+
+    *计算机最小的组成单元是：使用8个二进制位为一组，来保存数据，我们称之为一个字节（byte，简称B）。
+
+    *数据单位：
+
+    <img src="../images/BianLiangTransfer.png" alt="">
+    
+    *其中的每个二进制位称之为一位（bit，简称b），1byte=8bit 简写 1B=8b。
+
+### 第三节：数据类型及关键字、标识符
+<img src="../images/DataType.png" alt="">
