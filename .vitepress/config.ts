@@ -88,7 +88,6 @@ const customElements = [
     'annotation',
     'annotation-xml'
 ]
-
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     base: 'https://huuublog.github.io/',
