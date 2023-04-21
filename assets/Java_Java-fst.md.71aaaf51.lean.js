@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as e,O as o}from"./chunks/framework.f8b70166.js";const J=JSON.parse('{"title":"Java","description":"","frontmatter":{"title":"Java","editLink":true},"headers":[],"relativePath":"Java/Java-fst.md"}'),s={name:"Java/Java-fst.md"},r=o("",8),n=[r];function _(p,c,i,d,v,g){return t(),e("div",null,n)}const f=a(s,[["render",_]]);export{J as __pageData,f as default};
