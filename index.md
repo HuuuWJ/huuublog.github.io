@@ -4,25 +4,25 @@ layout: home
 
 hero:
   name: "HOME"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  text: "A Personal notes"
+  tagline: 待开发...
   actions:
     - theme: brand
       text: 主要介绍
       link: /MainDescription
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+#    - theme: alt
+#      text: API Examples
+#      link: /api-examples
 
 
 
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 小说明
+    details: 主要记录自主学习的一些笔记等...
+#  - title: Feature B
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#  - title: Feature C
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
