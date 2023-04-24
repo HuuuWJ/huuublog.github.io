@@ -6,7 +6,6 @@ editLink: true
 # 本篇为Java学习详细章节
 
 ## 第一章：Java快速入门
-
 ### 第一节：JDK的组成
 <img src="../images/JDK.png" alt="">
 
@@ -59,13 +58,13 @@ editLink: true
     *Java程序中支持书写二进制、八进制、十六进制的数据，分别需要以0B或者0b、0、0X或者0x开头。
 - 计算机中的数据的最小单位
 
-    *计算机最小的组成单元是：使用8个二进制位为一组，来保存数据，我们称之为一个字节（byte，简称B）。
+  *计算机最小的组成单元是：使用8个二进制位为一组，来保存数据，我们称之为一个字节（byte，简称B）。
 
-    *数据单位：
+  *数据单位：
 
     <img src="../images/BianLiangTransfer.png" alt="">
-    
-    *其中的每个二进制位称之为一位（bit，简称b），1byte=8bit 简写 1B=8b。
+
+  *其中的每个二进制位称之为一位（bit，简称b），1byte=8bit 简写 1B=8b。
 
 ### 第三节：数据类型及关键字、标识符
 <img src="../images/DataType.png" alt="">

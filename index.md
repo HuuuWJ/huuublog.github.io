@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "HOME"
+  name: "Hu‘Blog"
   text: "A Personal notes"
-  tagline: 待开发...
+  tagline: 你在看什么？不要再看了
   actions:
     - theme: brand
       text: 主要介绍
