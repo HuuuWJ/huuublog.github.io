@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Hu‘Blog"
+  name: "Hu'Blog"
   text: "A Personal notes"
   tagline: 你在看什么？不要再看了
   actions:
